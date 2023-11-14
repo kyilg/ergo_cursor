@@ -9,9 +9,9 @@ TOPケース用PCB<br>
 サンドイッチ用ボトムPCB<br>
 ボトム用PCB<br>
 各2枚<br>
-![1 TOP_R](https://github.com/kyilg/ergo_cursor/assets/46878795/1fba9af6-dfbb-4e50-8395-0aca81d80610)<br>
+![1 TOP_R](https://github.com/kyilg/ergo_cursor/assets/46878795/1fba9af6-dfbb-4e50-8395-0aca81d80610)
 ![1 TOP_L](https://github.com/kyilg/ergo_cursor/assets/46878795/acb8ccdc-7fc9-4db9-8924-9ac981cc3336)<br>
-![2 MAIN_R](https://github.com/kyilg/ergo_cursor/assets/46878795/25c9c883-b0da-43d4-80bc-1ab463349c55)<br>
+![2 MAIN_R](https://github.com/kyilg/ergo_cursor/assets/46878795/25c9c883-b0da-43d4-80bc-1ab463349c55)
 ![2 MAIN_L](https://github.com/kyilg/ergo_cursor/assets/46878795/80c15997-34ce-42b7-ab6f-48d2a1af87c6)<br>
 <br>
 M2ネジ<br>
